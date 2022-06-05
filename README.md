@@ -9,9 +9,4 @@ img url prefix = https://qqcdnpictest.mxplay.com/
 
 <br>
  
- <table>
-  <tr><td>hii</td><td>hii</td></tr>
-</table>
- 
-/ -- get all content of home page 
-<br>
+
